@@ -1,0 +1,1 @@
+![Sample Screenshot](AnimalPlanet.png)
